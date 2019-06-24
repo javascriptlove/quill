@@ -113,7 +113,6 @@ const baseConfig = {
     libraryExport: 'default',
     libraryTarget: 'umd',
     path: path.resolve(__dirname, '../dist/'),
-    globalObject: 'this'
   },
   resolve: {
     alias: {
